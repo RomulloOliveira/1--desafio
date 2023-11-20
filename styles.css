@@ -1,0 +1,24 @@
+*{
+    font:oblique;
+    
+    margin-left: 60px;
+    box-sizing: border-box;
+    
+}
+h1{
+    color: blue;
+    margin-top: 80px;
+  
+}
+
+b{
+    margin-left: 0px;
+}
+
+button{
+    width: 175px;
+    height: 25px;
+    color: aliceblue;
+    background-color: black;
+    border-radius: 20px;
+}
